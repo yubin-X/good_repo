@@ -3,4 +3,4 @@
 [YYKit:](https://github.com/ibireme/YYKit) YYKit is a collection of iOS components.
 
 
-[swift 个控件的查看](https://github.com/carlosengr/Swift)
+[swift各个控件的学习demo](https://github.com/carlosengr/Swift) ,方便基础知识的学习
