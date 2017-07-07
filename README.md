@@ -8,4 +8,7 @@
 
 ![import](https://github.com/markohlebar/Import/raw/master/Resources/usage.gif)
 
-[清除swift closure参数列表中的圆括号](https://github.com/BalestraPatrick/CleanClosureXcode)
+[CleanClosureXcode:清除swift closure参数列表中的圆括号](https://github.com/BalestraPatrick/CleanClosureXcode)
+
+![CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode/raw/master/result.gif)
+
