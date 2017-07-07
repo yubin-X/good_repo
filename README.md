@@ -7,3 +7,5 @@
 [Xcode 上的import扩展](https://github.com/markohlebar/Import)  
 
 ![import](https://github.com/markohlebar/Import/raw/master/Resources/usage.gif)
+
+[清除swift closure参数列表中的圆括号](https://github.com/BalestraPatrick/CleanClosureXcode)
